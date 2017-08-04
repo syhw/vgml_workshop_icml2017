@@ -1,1 +1,1 @@
-# vgml_workshop_nips2016
+# vgml_workshop_icml2017
